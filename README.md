@@ -7,3 +7,7 @@ So you will be able to choose three houses in each stage. <br>
 The game starts from the player on the left and continues according to the turn and scoring discussed in the previous paragraph until the time of both players reaches zero. <br>
 In the end, any player who has a higher score wins the game. <br>
 In addition, another condition to win is to reach 10 points, and any player who reaches it first wins the game, and time will not matter anymore. <br>
+<br>
+<br>
+![1](https://github.com/Mahshid-Alizade/Sum-Game/assets/42897108/1f0242bb-10fc-4096-993f-a582b2481ee4)
+
